@@ -6,4 +6,4 @@
 #Date: today
 
 
-echo "this is a simpleshell project"
+echo "this is a simpleshell project!"
